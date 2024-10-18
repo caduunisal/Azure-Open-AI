@@ -1,1 +1,3 @@
-print("Open AI Project!")
+import openai
+from dotenv 
+
